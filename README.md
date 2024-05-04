@@ -53,5 +53,4 @@ This Telegram bot provides real-time data for cryptocurrencies using the CoinGec
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-\```
-\```
+
