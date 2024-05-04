@@ -1,4 +1,3 @@
-\```markdown
 # Crypto Bot
 
 This Telegram bot provides real-time data for cryptocurrencies using the CoinGecko API.
